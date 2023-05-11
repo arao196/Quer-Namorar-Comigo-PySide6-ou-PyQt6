@@ -26,7 +26,7 @@ class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
           
           
     def melhorOpcao(self):
-          self.label.setText("Escolheu a melhor opção!!!")
+          self.label.setText("agora, Julia oriental é do grão Arão!!!")
           self.label.setStyleSheet("QLabel{\n"
 "	font-size: 30px;\n"
 "	font-weight: bold;\n"
