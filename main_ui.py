@@ -89,7 +89,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         MainWindow.setWindowTitle(QCoreApplication.translate("MainWindow", u"MainWindow", None))
-        self.label.setText(QCoreApplication.translate("MainWindow", u"Quer namorar comigo?", None))
+        self.label.setText(QCoreApplication.translate("MainWindow", u"Vc é minha?", None))
         self.button_yes.setText(QCoreApplication.translate("MainWindow", u"Sim :)", None))
         self.button_no.setText(QCoreApplication.translate("MainWindow", u"N\u00e3o", None))
         self.coracao.setText("")
